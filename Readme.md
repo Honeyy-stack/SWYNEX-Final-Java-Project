@@ -17,7 +17,19 @@ collections, JDBC, PreparedStatement, regex validation.
 Java 17, MySQL, JDBC
 
 ## Project Structure
-(paste the folder tree)
+SWYNEX-Final-Java-Project/
+├── src/
+│   └── com/swynex/studentapp/
+│       ├── model/        → Student.java
+│       ├── dao/          → StudentDAO.java
+│       ├── util/         → DBConnection.java, Validator.java
+│       ├── exception/    → ValidationException.java
+│       └── Main.java
+├── database/
+│   └── schema.sql
+├── screenshots/
+├── README.md
+└── .gitignore
 
 ## Setup Instructions
 1. Clone the repo
@@ -26,8 +38,5 @@ Java 17, MySQL, JDBC
 4. Add the MySQL connector JAR
 5. Run Main.java
 
-## Screenshots
-![Menu](screenshots/menu.png)
-
 ## Author
-Your Name | Internship at SWYNEX Technologies
+Honey Goyal | Internship at SWYNEX Technologies
