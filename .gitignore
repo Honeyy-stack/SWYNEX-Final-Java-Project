@@ -1,1 +1,6 @@
-
+git init
+git add .
+git commit -m "Final Java project: Student Management System"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/SWYNEX-Final-Java-Project.git
+git push -u origin main
