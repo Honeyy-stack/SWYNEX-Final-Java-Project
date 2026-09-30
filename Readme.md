@@ -27,7 +27,6 @@ SWYNEX-Final-Java-Project/
 │       └── Main.java
 ├── database/
 │   └── schema.sql
-├── screenshots/
 ├── README.md
 └── .gitignore
 
